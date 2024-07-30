@@ -78,7 +78,7 @@ public:
 
     void viewContacts() const {
         if (contacts.empty()) {
-            cout << "No contacts available." << endl;
+            cout << "No contacts are available." << endl;
             return;
         }
 
