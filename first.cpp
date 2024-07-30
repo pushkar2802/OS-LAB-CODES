@@ -96,7 +96,7 @@ public:
 
 void displayMenu() {
     cout << "Contact Manager Menu" << endl;
-    cout << "1. Add Contact" << endl;
+    cout << "1. Add New Contact" << endl;
     cout << "2. Delete Contact" << endl;
     cout << "3. View Contacts" << endl;
     cout << "4. Exit" << endl;
